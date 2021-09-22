@@ -1,0 +1,6 @@
+# Ignorar todos os arquivos que terminam em .jar .xml
+*.jar
+*.xml
+
+# Ignorar todos os arquivos que estão dentro da pasta node_modules
+node_modules/*
